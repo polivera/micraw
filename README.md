@@ -1,2 +1,2 @@
 # micraw
-A web crawler writen in elixir
+A web crawler written in elixir
